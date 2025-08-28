@@ -2,7 +2,7 @@
 *.ipynb
 
 # 忽略论文
-PaperTex
+PaperTex/
 *.tex
 
 # 忽略数据
