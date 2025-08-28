@@ -1,0 +1,16 @@
+# 忽略 Jupyter Notebook
+*.ipynb
+
+# 忽略论文
+PaperTex
+*.tex
+
+# 忽略数据
+data_plot/
+
+# 忽略 vscode 文件
+.vscode/
+
+# 忽略 mac 文件
+# 忽略操作系统自动生成的文件 (推荐)
+.DS_Store
